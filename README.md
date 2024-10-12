@@ -2,13 +2,11 @@
 
 This Streamlit dasboard shows CO2 Emissions from the Top 10 World Economies by using emission data from the World Bank API.
 
-## Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+## Live Demo
 
-## GitHub Codespaces
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://marcus-repo-climate-change-app-climate-change-app-lq5rw1.streamlit.app/)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
 ## Requirements
 - Python
@@ -17,4 +15,5 @@ This Streamlit dasboard shows CO2 Emissions from the Top 10 World Economies by u
 
 ## Ressources
 - [Streamlit](https://streamlit.io/)
+- [Streamlit Starter Kit](https://app-starter-kit.streamlit.app/)
 - [World Bank](https://data.worldbank.org/indicator)
